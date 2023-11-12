@@ -4,15 +4,15 @@
 https://www.python.org/downloads/
 
 ## to take screenshots
-pip install pyautogui
+python -m pip install pyautogui==0.9.35
 ## listen to key events
-pip install pynput
+python -m  pip install pynput
 ## create PDF
-pip install fpdf
+python -m pip install fpdf
 ## draw stuff on screen
-pip install pywin32
+python -m pip install pywin32
 ## images
-pip install PIL
+python -m pip install PIL
 
 
 # How to use
