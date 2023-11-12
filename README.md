@@ -12,7 +12,7 @@ python -m pip install fpdf
 ## draw stuff on screen
 python -m pip install pywin32
 ## images
-python -m pip install PIL
+python3 -m pip install Pillow
 
 
 # How to use
